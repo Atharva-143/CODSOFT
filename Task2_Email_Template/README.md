@@ -1,11 +1,20 @@
 # Task 2: Email Template Design
 
-## Status
-In Progress
+## Objective
+Design a clean and responsive email template for user engagement.
 
 ## Tool Used
-- Figma
+Figma
 
 ## Description
-This task involves designing a visually appealing and responsive email template
-that can be used for marketing or communication purposes.
+A welcome email template for the Besik app.  
+The email informs users that their account is ready and guides them to the dashboard.
+
+## Features
+- Clear heading and message
+- Call-to-action button
+- Feature highlights
+- Footer with unsubscribe option
+
+## Screenshot
+![Email Template](screenshots/Task2_Email_Template.png)

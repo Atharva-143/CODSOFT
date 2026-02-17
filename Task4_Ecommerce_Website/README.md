@@ -11,7 +11,7 @@ Design an e-commerce website interface that is visually appealing, easy to navig
 - Featured brand section
 - Product listing cards with images, price and shop button
 - Footer with quick links
-
+  
 ## Design Tool
 Figma
 

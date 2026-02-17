@@ -17,11 +17,12 @@ Figma
 
 ## Screenshots
 
-### Preview
-![Preview](preview.png)
+## Preview
+![Preview](screenshots/preview.png)
 
-### Full Homepage
-![Homepage](homepage.png)
+## Homepage
+![Homepage](screenshots/homepage.png)
+
 
 ## Learning Outcome
 This project helped me understand layout hierarchy, spacing, product presentation and usability principles in e-commerce UI design.
